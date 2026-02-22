@@ -12,7 +12,6 @@ Focus:
 - Governance by design
 - Sustainable transformation without breaking operations
 
-- 
 組織が持続的に運用できる内製プラットフォームの
 運用モデルと責任構造を設計します。
 
