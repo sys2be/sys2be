@@ -5,9 +5,9 @@
 Designing operating models for shared technology platforms within organizations,
 integrating infrastructure, governance, and DevSecOps into practical execution.
 
-30年以上の社会インフラ・情報システムの基盤アーキテクチャ経験。
+30年以上にわたり、社会インフラおよび情報システムの基盤アーキテクチャに従事。
 組織内で共通利用される技術基盤における運用モデルと責任分界を設計し、
-インフラ、統制、DevSecOpsを実装します。
+インフラ、統制、DevSecOpsを実行可能な形に整理します。
 
 ---
 
@@ -22,8 +22,6 @@ integrating infrastructure, governance, and DevSecOps into practical execution.
 - Governance-aligned DevSecOps implementation  
   統制を踏まえたDevSecOps設計
 
-- Offshore-ready operational structure  
-  オフショア前提の運用構造設計
 
 ---
 
