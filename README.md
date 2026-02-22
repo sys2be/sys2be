@@ -18,7 +18,9 @@ Platform Engineering を「組織に定着させる」設計を行います。
 - `platform-blueprint-aws`（最小実装の証拠：Terraform/EKS/GitOps）
 
 ---
-Contact: (LinkedIn / note / email は後で追記)
+Contact: 
+https://www.linkedin.com/in/gunbai/
+
 <!--
 **sys2be/sys2be** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
