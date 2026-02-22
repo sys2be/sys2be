@@ -1,7 +1,23 @@
 # Platform Transformation Architect
-30+ years in infrastructure and governance
-基盤（サーバ / NW / セキュリティ / 運用）とガバナンス（ISMS等）の経験を基に、
-Platform Engineering を「組織に定着させる」設計を行います。
+
+Designing internal platforms that organizations can actually operate.
+
+I architect operating models for Platform Engineering,
+integrating infrastructure, governance, DevSecOps,
+and offshore-ready execution.
+
+Focus:
+- Platform as a Product
+- Responsibility-driven design
+- Governance by design
+- Sustainable transformation without breaking operations
+
+- 
+組織が持続的に運用できる内製プラットフォームの
+運用モデルと責任構造を設計します。
+
+インフラ基盤とガバナンスを前提に、
+DevSecOpsを実装可能な形に落とし込みます。。
 
 ## What I do
 - Platform Operating Model（責任分界 / 運用モデル / 標準化）の設計
