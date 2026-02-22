@@ -1,4 +1,3 @@
-## Hi there 👋
 # Platform Transformation Architect
 
 基盤（サーバ / NW / セキュリティ / 運用）とガバナンス（ISMS等）の経験を基に、
