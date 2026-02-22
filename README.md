@@ -1,34 +1,23 @@
 # Platform Transformation Architect
 
-Designing internal platforms that organizations can actually operate.
-
-I architect operating models for Platform Engineering,
-integrating infrastructure, governance, DevSecOps,
-and offshore-ready execution.
-
-Focus:
-- Platform as a Product
-- Responsibility-driven design
-- Governance by design
-- Sustainable transformation without breaking operations
-
-
-
-## What I do
-組織が持続的に運用できる内製プラットフォームの運用モデルと責任構造を設計します。
-インフラ基盤とガバナンスを前提に、DevSecOpsを実装可能な形に落とし込みます。
-
-- Platform Operating Model（責任分界 / 運用モデル / 標準化）の設計
-- GitOps / IaC / Observability を前提とした運用・開発プロセスの再設計
-- Offshore（遠隔運用）前提の運用設計・移管設計（Evidence / SLA / 手順 / 監査対応）
-
-## Focus
-- Governance-integrated DevSecOps
-- Self-Service with control（自由と統制の両立）
-- “Run” を壊さない変革（運用現実主義）
-
-## Proof
-- `platform-operating-model`（変革設計のテンプレート）
-- `platform-blueprint-aws`（最小実装の証拠：Terraform/EKS/GitOps）
+I design and refine operating models for shared technology platforms
+within organizations, integrating infrastructure, governance,
+and DevSecOps practices into practical execution.
 
 ---
+
+## About
+
+組織内で共通利用される技術基盤（クラウド基盤、CI/CD、運用基盤など）における
+責任分界と運用モデルの設計を行っています。
+
+インフラ構築や統制要件を前提に、
+開発・運用が継続的に回る仕組みを整理し、
+実行可能な形へと落とし込みます。
+
+---
+
+## Selected Work
+
+- platform-operating-model  
+- platform-blueprint-aws
