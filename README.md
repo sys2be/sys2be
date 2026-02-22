@@ -1,5 +1,5 @@
 # Platform Transformation Architect
-
+30+ years in infrastructure and governance
 基盤（サーバ / NW / セキュリティ / 運用）とガバナンス（ISMS等）の経験を基に、
 Platform Engineering を「組織に定着させる」設計を行います。
 
@@ -18,20 +18,3 @@ Platform Engineering を「組織に定着させる」設計を行います。
 - `platform-blueprint-aws`（最小実装の証拠：Terraform/EKS/GitOps）
 
 ---
-Contact: 
-https://www.linkedin.com/in/gunbai/
-
-<!--
-**sys2be/sys2be** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
